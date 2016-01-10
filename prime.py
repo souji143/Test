@@ -20,6 +20,7 @@ def get_prime(l):
 
 
 
+
 def check_prime(ele, count=False):
 	if ele==2:return ele
 	for j in range(2, ele):
